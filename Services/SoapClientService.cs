@@ -10,7 +10,7 @@ namespace tech_test.Services
     {
         private readonly HttpClient _http;
 
-        private const string SoapEndpoint = "http://isapi.icu-tech.com/icutech-test.dll";
+        private const string SoapEndpoint = "http://isapi.mekashron.com/icu-tech/icutech-test.dll";
 
         public SoapClientService()
         {
